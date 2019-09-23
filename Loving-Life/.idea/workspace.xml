@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feaef492-d380-494d-9ec8-d6f7ebb26242" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Food-parting/1homepage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="589">
+              <caret line="125" column="6" lean-forward="true" selection-start-line="116" selection-end-line="125" selection-end-column="6" />
+              <folding>
+                <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Food-parting/2remanding.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Food-parting/3independent.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#button#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Food-parting/4analyzing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" column="6" selection-start-line="27" selection-end-line="54" selection-end-column="6" />
+              <folding>
+                <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#button#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Food-parting/5nutrition.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="55" column="6" selection-start-line="28" selection-end-line="55" selection-end-column="6" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Food-parting/6dietary-pattern.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1349">
+              <caret line="71" column="6" selection-start-line="62" selection-end-line="71" selection-end-column="6" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Food-parting/7improving.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ul1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Food pairing.html" />
+        <option value="$PROJECT_DIR$/1homepage.html" />
+        <option value="$PROJECT_DIR$/r-c.js" />
+        <option value="$PROJECT_DIR$/recommendcatering.html" />
+        <option value="$PROJECT_DIR$/analyze.html" />
+        <option value="$PROJECT_DIR$/independentcatering.html" />
+        <option value="$PROJECT_DIR$/nutritiontable.html" />
+        <option value="$PROJECT_DIR$/dietarypattern.html" />
+        <option value="$PROJECT_DIR$/improment.html" />
+        <option value="$PROJECT_DIR$/代码.html" />
+        <option value="$PROJECT_DIR$/推荐配餐.html" />
+        <option value="$PROJECT_DIR$/主页.html" />
+        <option value="$PROJECT_DIR$/1主页.html" />
+        <option value="$PROJECT_DIR$/2推荐配餐.html" />
+        <option value="$PROJECT_DIR$/3自主配餐.html" />
+        <option value="$PROJECT_DIR$/4分析.html" />
+        <option value="$PROJECT_DIR$/5营养表.html" />
+        <option value="$PROJECT_DIR$/6膳食结构.html" />
+        <option value="$PROJECT_DIR$/7改善建议.html" />
+        <option value="$PROJECT_DIR$/认菜版块/1打开图库.html" />
+        <option value="$PROJECT_DIR$/认菜版块/2点击拍摄.html" />
+        <option value="$PROJECT_DIR$/认菜版块/3允许.html" />
+        <option value="$PROJECT_DIR$/认菜版块/4不同意.html" />
+        <option value="$PROJECT_DIR$/配餐版块/1主页.html" />
+        <option value="$PROJECT_DIR$/Food-Parting/1主页.html" />
+        <option value="$PROJECT_DIR$/Food-Parting/2推荐配餐.html" />
+        <option value="$PROJECT_DIR$/Food-parting/3自主配餐.html" />
+        <option value="$PROJECT_DIR$/Food-parting/4分析.html" />
+        <option value="$PROJECT_DIR$/Food-parting/5营养表.html" />
+        <option value="$PROJECT_DIR$/Food-parting/7改善建议.html" />
+        <option value="$PROJECT_DIR$/Food-parting/6膳食结构.html" />
+        <option value="$PROJECT_DIR$/Food-parting/2推荐配餐.html" />
+        <option value="$PROJECT_DIR$/Food-parting/1主页.html" />
+        <option value="$PROJECT_DIR$/Food-parting/Home.js" />
+        <option value="$PROJECT_DIR$/Food-parting/index.html" />
+        <option value="$PROJECT_DIR$/Food-parting/2remandding.html" />
+        <option value="$PROJECT_DIR$/Food-parting/1homepage.js" />
+        <option value="$PROJECT_DIR$/Food-parting/3independent.html" />
+        <option value="$PROJECT_DIR$/Food-parting/4analyzing.html" />
+        <option value="$PROJECT_DIR$/Food-parting/5nutrition.html" />
+        <option value="$PROJECT_DIR$/Food-parting/6dietary-pattern.html" />
+        <option value="$PROJECT_DIR$/Food-parting/7improving.html" />
+        <option value="$PROJECT_DIR$/Food-parting/1homepage.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="540" />
+    <option name="y" value="138" />
+    <option name="width" value="647" />
+    <option name="height" value="653" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Loving-Life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Loving-Life" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Loving-Life" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Loving-Life" type="462c0819:PsiDirectoryNode" />
+              <item name="Food-parting" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Webstormproject" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\爱生活" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feaef492-d380-494d-9ec8-d6f7ebb26242" name="Default" comment="" />
+      <created>1548726506672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548726506672</updated>
+      <workItem from="1548726510242" duration="1151000" />
+      <workItem from="1548811754774" duration="1426000" />
+      <workItem from="1548814804742" duration="3128000" />
+      <workItem from="1548986594521" duration="11529000" />
+      <workItem from="1549020426163" duration="9000" />
+      <workItem from="1549070757747" duration="5367000" />
+      <workItem from="1549078686521" duration="1321000" />
+      <workItem from="1549156125026" duration="1234000" />
+      <workItem from="1549182810816" duration="11000" />
+      <workItem from="1549182835055" duration="16000" />
+      <workItem from="1549182863103" duration="27000" />
+      <workItem from="1549183206182" duration="3350000" />
+      <workItem from="1549159046929" duration="6364000" />
+      <workItem from="1549214253817" duration="316000" />
+      <workItem from="1549215659282" duration="8908000" />
+      <workItem from="1549821339298" duration="1212000" />
+      <workItem from="1551517144522" duration="234000" />
+      <workItem from="1551518912714" duration="279000" />
+      <workItem from="1551962235531" duration="1198000" />
+      <workItem from="1551963897381" duration="37000" />
+      <workItem from="1552139550598" duration="815000" />
+      <workItem from="1553054470660" duration="51000" />
+      <workItem from="1553054557043" duration="34000" />
+      <workItem from="1553058991964" duration="27000" />
+      <workItem from="1553063516555" duration="95000" />
+      <workItem from="1553112596501" duration="1035000" />
+      <workItem from="1553211774810" duration="12301000" />
+      <workItem from="1553232540982" duration="27000" />
+      <workItem from="1553286808331" duration="3304000" />
+      <workItem from="1553395026007" duration="2756000" />
+      <workItem from="1553580651468" duration="827000" />
+      <workItem from="1553582253573" duration="7782000" />
+      <workItem from="1553907574504" duration="421000" />
+      <workItem from="1553928884639" duration="15000" />
+      <workItem from="1553929777215" duration="3000" />
+      <workItem from="1553929909381" duration="1059000" />
+      <workItem from="1554033784896" duration="117000" />
+      <workItem from="1555134778446" duration="4049000" />
+      <workItem from="1555140162890" duration="6626000" />
+      <workItem from="1555491180083" duration="8994000" />
+      <workItem from="1555664932564" duration="8626000" />
+      <workItem from="1555824588114" duration="453000" />
+      <workItem from="1555830522661" duration="2732000" />
+      <workItem from="1556018994255" duration="480000" />
+      <workItem from="1556180087545" duration="9512000" />
+      <workItem from="1556192676307" duration="223000" />
+      <workItem from="1556337162222" duration="3541000" />
+      <workItem from="1561613723610" duration="102000" />
+      <workItem from="1562408058344" duration="863000" />
+      <workItem from="1563152446808" duration="18000" />
+      <workItem from="1563155244552" duration="20000" />
+      <workItem from="1563157633457" duration="185000" />
+      <workItem from="1563150256693" duration="600000" />
+      <workItem from="1564459479807" duration="193000" />
+      <workItem from="1564472580175" duration="2252000" />
+      <workItem from="1564530424767" duration="19000" />
+      <workItem from="1564803941339" duration="604000" />
+      <workItem from="1569245802527" duration="1455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129333000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info id="Structure" order="1" weight="0.11426684" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32793522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.26308346" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.01981506" />
+      <window_info id="Structure" order="1" weight="0.11426684" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32793522" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.26308346" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/independentcatering.html" />
+    <entry file="file://$PROJECT_DIR$/dietarypattern.html" />
+    <entry file="file://$PROJECT_DIR$/代码.html" />
+    <entry file="file://$PROJECT_DIR$/r-c.js" />
+    <entry file="file://$PROJECT_DIR$/nutritiontable.html" />
+    <entry file="file://$PROJECT_DIR$/analyze.html" />
+    <entry file="file://$PROJECT_DIR$/1homepage.html" />
+    <entry file="file://$PROJECT_DIR$/改善建议.html" />
+    <entry file="file://$PROJECT_DIR$/膳食结构.html" />
+    <entry file="file://$PROJECT_DIR$/自主配餐.html" />
+    <entry file="file://$PROJECT_DIR$/营养表.html" />
+    <entry file="file://$PROJECT_DIR$/主页.html" />
+    <entry file="file://$PROJECT_DIR$/推荐配餐.html" />
+    <entry file="file://$PROJECT_DIR$/1主页.html" />
+    <entry file="file://$PROJECT_DIR$/3自主配餐.html" />
+    <entry file="file://$PROJECT_DIR$/2推荐配餐.html" />
+    <entry file="file://$PROJECT_DIR$/4分析.html" />
+    <entry file="file://$PROJECT_DIR$/5营养表.html" />
+    <entry file="file://$PROJECT_DIR$/6膳食结构.html" />
+    <entry file="file://$PROJECT_DIR$/7改善建议.html" />
+    <entry file="file://$PROJECT_DIR$/认菜版块/2点击拍摄.html" />
+    <entry file="file://$PROJECT_DIR$/认菜版块/3允许.html" />
+    <entry file="file://$PROJECT_DIR$/认菜版块/4不同意.html" />
+    <entry file="file://$PROJECT_DIR$/认菜版块/1打开图库.html" />
+    <entry file="file://$PROJECT_DIR$/配餐版块/1主页.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap-theme.css" />
+    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/主页.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/Food-Parting/r-c.js" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/7改善建议.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/6膳食结构.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/5营养表.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/4分析.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/Home.js" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/1主页.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/2推荐配餐.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3325">
+          <caret line="175" column="10" selection-start-line="175" selection-start-column="10" selection-end-line="175" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/r-c.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/2remandding.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/3自主配餐.html" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="33" column="63" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/1homepage.js" />
+    <entry file="file://$PROJECT_DIR$/Food-parting/1homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="125" column="6" lean-forward="true" selection-start-line="116" selection-end-line="125" selection-end-column="6" />
+          <folding>
+            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/2remanding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/3independent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/4analyzing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="6" selection-start-line="27" selection-end-line="54" selection-end-column="6" />
+          <folding>
+            <element signature="n#nav#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#button#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/5nutrition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="55" column="6" selection-start-line="28" selection-end-line="55" selection-end-column="6" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/6dietary-pattern.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="6" selection-start-line="62" selection-end-line="71" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Food-parting/7improving.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#0;n#nav#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
