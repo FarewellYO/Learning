@@ -17,6 +17,13 @@
     <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
     <style>
+
+        body{
+            background-image:url("./image/timg5.jpg");
+            background-repeat:no-repeat ;
+            background-size:100% 100%;
+            background-attachment: fixed;
+        }
         .button {
             background-color: #008CBA;
             border: none;
@@ -89,8 +96,8 @@
             <button class="button " type="button" id="login" onclick="Login()//self.location.href='7Homepage.html'">登录</button>
         </div>
         <script type="text/javascript">
-            var phone= $("#Phone").val();
-            var password = $("#Password").val();
+            var phone= $("#Phone").value();
+            var password = $("#Password").value();
             function Login() {
                 $('#login').click(function () {
                     $.ajax({
@@ -99,10 +106,10 @@
                         dataType:"json",
                         // jsonpCallback:"successCallback",
                         async:false,
-                        data:{phone:phone,password:password},
+                        data:'{"phone":"'+phone+'","password":"'+password+'"}',
                         success:function (res) {
                             console.log("www");
-                            if (res.success==="f"){
+                            if (res.success==="t"){
                                 window.location.href = "7Homepage.html";
                             }else {
                                 alert("手机号或密码错误");
