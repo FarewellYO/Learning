@@ -18,6 +18,13 @@
     <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
     <style>
+
+        body{
+            background-image:url("./image/timg5.jpg");
+            background-repeat:no-repeat ;
+            background-size:100% 100%;
+            background-attachment: fixed;
+        }
         .center-block {
             position: absolute;
             bottom: 50%;
@@ -96,8 +103,8 @@
         <button class="button " id="registration" type="button" onclick="Check()//self.location.href='4Login.html'">注册</button>
     </div>
     <script type="text/javascript">
-        var phone = $("#phone").val();
-        var password = $("#password").val();
+        var phone = $("#phone").value();
+        var password = $("#password").value();
         function Check() {
             $("#registration").click(function () {
                 $.ajax({
@@ -106,10 +113,10 @@
                     dataType:"json",
                     jsonpCallback:"successCallback", //如果不写这一句，直接执行error；
                     async:false,
-                    data:{phone:phone,password:password},
+                    data:'{"phone":"'+phone+'","password":"'+password+'"}',
                     success:function (res) {
                         console.log("aaa");
-                        if (res.success==="f"){
+                        if (res.success==="t"){
                             window.location.href = '4Login.html';
                         }else {
                             alert("手机号出现错误");
