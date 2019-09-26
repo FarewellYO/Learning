@@ -1,0 +1,5 @@
+简单的andriod studio打包生成apk：
+*apk文件就是一个包，打包就是生成apk文件，有了apk别人才能安装使用。
+*打包分为debug包和release包。通常所说的打包是生成release版的apk，release版的apk会比debug版的小。
+Build-->Generate-->create new
+s
