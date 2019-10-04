@@ -20,9 +20,9 @@
     <style>
 
         body{
-            background-image:url("./image/timg5.jpg");
+            background-image:url("./image/timg8.jpg");
             background-repeat:no-repeat ;
-            background-size:100% 100%;
+            background-size:cover;
             background-attachment: fixed;
         }
         .center-block {
@@ -108,12 +108,13 @@
         function Check() {
             $("#registration").click(function () {
                 $.ajax({
-                    url:"http://localhost:12345/softContraller/Login/register",
+                    url:"http://47.93.102.98:12345/softContraller/Login/register",
                     type:"post",
                     dataType:"json",
                     jsonpCallback:"successCallback", //如果不写这一句，直接执行error；
                     async:false,
                     data:'{"phone":"'+phone+'","password":"'+password+'"}',
+                    // data:{phone:phone,password:password},
                     success:function (res) {
                         console.log("aaa");
                         if (res.success==="t"){
