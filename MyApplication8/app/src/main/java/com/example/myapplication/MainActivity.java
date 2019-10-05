@@ -19,7 +19,12 @@ public class MainActivity extends Activity {
 
         mWebView = (WebView) findViewById(R.id.mWebView);
 
+
         mWebView.getSettings().setJavaScriptEnabled(true);
+        mWebView.loadUrl("javascript:test()");
+        mWebView.getSettings().setDomStorageEnabled(true);
+        mWebView.getSettings().setDatabaseEnabled(true);
+
         mWebView.setWebViewClient(new WebViewClient());
 
         mWebView.loadUrl("file:///android_asset/1User.html");
