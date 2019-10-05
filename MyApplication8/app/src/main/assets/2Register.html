@@ -106,7 +106,7 @@
         var phone = $("#phone").value();
         var password = $("#password").value();
         function Check() {
-            $("#registration").click(function () {
+            $(document).on("click touchstart","#registration",function () {
                 $.ajax({
                     url:"http://47.93.102.98:12345/softContraller/Login/register",
                     type:"post",
