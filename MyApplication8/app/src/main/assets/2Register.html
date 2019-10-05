@@ -20,7 +20,7 @@
     <style>
 
         body{
-            background-image:url("./image/timg8.jpg");
+            background-image:url("image/timg8.jpg");
             background-repeat:no-repeat ;
             background-size:cover;
             background-attachment: fixed;
@@ -103,17 +103,19 @@
         <button class="button " id="registration" type="button" onclick="Check()//self.location.href='4Login.html'">注册</button>
     </div>
     <script type="text/javascript">
-        var phone = $("#phone").value();
-        var password = $("#password").value();
+        // var phone = $("#phone").val();
+        // var password = $("#password").val();
+        var phone=document.getElementById("phone");
+        var password=document.getElementById("password");
         function Check() {
-            $(document).on("click touchstart","#registration",function () {
+            $(document).on("click touchstart",'#registration',function () {
                 $.ajax({
                     url:"http://47.93.102.98:12345/softContraller/Login/register",
                     type:"post",
                     dataType:"json",
                     jsonpCallback:"successCallback", //如果不写这一句，直接执行error；
                     async:false,
-                    data:'{"phone":"'+phone+'","password":"'+password+'"}',
+                    data:'{"phone":"'+phone.value+'","password":"'+password.value+'"}',
                     // data:{phone:phone,password:password},
                     success:function (res) {
                         console.log("aaa");
