@@ -9,8 +9,5 @@
         <module name="tptap" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="tptap" target="7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
